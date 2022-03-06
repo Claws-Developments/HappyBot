@@ -18,7 +18,7 @@ module.exports = new Command({
 
         const embed2 = new Discord.MessageEmbed()
         .setTitle("Moderation Commands")
-        .setDescription("`-ban` <mention user> | `-clear` <message amount> | \n`-mute` <user> | `-unmute` <user> |")
+        .setDescription("`COMING SOON!`")
         .setColor("PURPLE")
 
         .setTimestamp()
