@@ -9,7 +9,7 @@ module.exports = new Command({
   async run(message, args, client) {
     const playlistEmbed = new MessageEmbed()
         .setTitle("HotLines")
-        .setDescription("The following commands will give you hotlines for various things! \n```-abortionlines``` \n```-abuselines``` \n```-suicidelines``` ")
+        .setDescription("The following commands will give you hotlines for various things! \n```-abortionlines``` \n```-abuselines``` \n```-suicidelines``` \n```-addictionlines``` \n```-cancerlines``` \n```-caregiverlines``` ")
         .setColor("PURPLE")
         .setFooter('More hotlines coming soon!')
         .setTimestamp()
